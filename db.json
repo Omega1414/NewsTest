@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Nathan Frandino",
+      "title": "California researchers test everybody in one town for coronavirus - Reuters India",
+      "description": "Researchers began testing an entire town in northern California for the novel coronavirus and its antibodies on Monday, one of the first such efforts since the pandemic hit the United States.",
+      "url": "https://in.reuters.com/article/health-coronavirus-california-testing-idINKBN22309H",
+      "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200421&t=2&i=1515823617&w=1200&r=LYNXMPEG3K05Q",
+      "publishedAt": "2020-04-21T06:18:01Z",
+      "content": "BOLINAS, Calif. (Reuters) - Researchers began testing an entire town in northern California for the novel coronavirus and its antibodies on Monday, one of the first such efforts since the pandemic hit the United States. \r\nBolinas, a wealthy beach town in Mari… [+2727 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BFSI Network",
+      "title": "80% asymptomatic cases deepens COVID-19 concerns in India - Elets",
+      "description": "With inflating number of asymptomatic Covid-19 cases responsible for spreading the infection, India's top medical research body is struggling with the problem caused by the \"silent spreaders\" and",
+      "url": "https://bfsi.eletsonline.com/80-asymptomatic-cases-deepens-covid-19-concerns-in-india/",
+      "urlToImage": "https://mk0bfsieletsonlt96u6.kinstacdn.com/wp-content/uploads/2020/04/80-asymptomatic-cases-deepens-COVID-19-concerns-in-India.jpg",
+      "publishedAt": "2020-04-21T06:01:31Z",
+      "content": "🔊 Listen to this ArticleWith inflating number of asymptomatic Covid-19 cases responsible for spreading the infection, Indias top medical research body is struggling with the problem caused by the silent spreaders and examining the feasibility of introducing … [+1847 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "AFP",
+      "title": "From 1 to 9: How AC air spread coronavirus to 3 families at a restaurant in China - dineshr",
+      "description": "A family that arrived in China's Guangzhou from Wuhan spread the virus to two other families while dining at a restaurant. The virus transmission happened through the AC airflow.",
+      "url": "https://www.indiatoday.in/world/story/how-ac-air-spread-coronavirus-to-3-families-at-a-restaurant-in-china-1669262-2020-04-21",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202004/2020-04-17T083537Z_1806127465_-647x363.png?0i9XlAO9vhGwC.SPKmavPVrqeVxPRur0",
+      "publishedAt": "2020-04-21T05:11:31Z",
+      "content": "In January, when the coronavirus epicentre Wuhan was yet to be locked down completely, a family was dining at a restaurant in Guangzhou. The family had come from Wuhan and one of them was carrying the virus unknowingly. Days later, nine others who dined at th… [+2075 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "AFP",
+      "title": "Coronavirus: How diseases have originates from the animal world - Daily Monitor",
+      "description": "Scientists think it originated in bats and could have been passed on via another mammal like a pangolin, an endangered species whose meat and scales are highly prized in parts of Asia",
+      "url": "https://www.monitor.co.ug/News/National/Coronavirus-origin-diseases-animal-world-rabies-malaria/688334-5529986-3buh5a/index.html",
+      "urlToImage": "https://www.monitor.co.ug/image/view/-/5530002/medRes/2603017/-/uhea90z/-/latest03pix.jpg",
+      "publishedAt": "2020-04-21T05:04:53Z",
+      "content": "By AFP \r\nWhether it came from a bat or a pangolin is not certain, but one thing is: the coronavirus outbreak that has killed tens of thousands and turned the world upside down comes from the animal world.\r\nIt is human activity enabled the virus to jump to peo… [+4988 chars]"
+    }
+  ]
+}
